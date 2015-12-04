@@ -45,7 +45,7 @@
       <li><a href="#">ΕΥΡΩΠΑΪΚΑ ΠΡΟΓΡΑΜΜΑΤΑ</a>
         <ul>
             <li><a href="etunning.php">e-tunning</a></li>
-          <li><a href="page-typography.html">Erasmus+</a></li>
+          <li><a href="#">Erasmus+</a></li>
         </ul>
       </li>
       <li><a href="actions.php">ΔΡΑΣΕΙΣ</li>
